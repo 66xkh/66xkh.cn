@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>66小课后</title>
+    <description>Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+</description>
+    <link>http://webjeda.com/cards/</link>
+    <atom:link href="http://webjeda.com/cards/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 28 Nov 2017 20:27:04 +0800</pubDate>
+    <lastBuildDate>Tue, 28 Nov 2017 20:27:04 +0800</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Usage Guide</title>
+        <description>&lt;p&gt;Use the guide to prepare good looking posts! The theme has a sidebar in the post layout which consists of post image, recent posts and facebook like box. This can be extended by editing the &lt;code class=&quot;highlighter-rouge&quot;&gt;sidebar.html&lt;/code&gt; in &lt;strong&gt;_includes&lt;/strong&gt; folder.&lt;/p&gt;
+
+&lt;h2 id=&quot;image&quot;&gt;Image&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use image of ratio 400x250 (800x500).&lt;/li&gt;
+  &lt;li&gt;Keep them inside &lt;code class=&quot;highlighter-rouge&quot;&gt;images&lt;/code&gt; folder.&lt;/li&gt;
+  &lt;li&gt;Mention image name in the front matter as shown below&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yml&quot; data-lang=&quot;yml&quot;&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;layout&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;post&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Some&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;title&quot;&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;categories&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;some category&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;img&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;image-name.jpg&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+</description>
+        <pubDate>Sun, 12 Jun 2016 00:00:00 +0800</pubDate>
+        <link>http://webjeda.com/cards/usage/</link>
+        <guid isPermaLink="true">http://webjeda.com/cards/usage/</guid>
+        
+        
+        <category>two</category>
+        
+      </item>
+    
+      <item>
+        <title>Post with no image</title>
+        <description>&lt;p&gt;When there is no image mentioned in the front-matter, default image will be displayed. You can change this image to any other one that suits your needs.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non iaculis risus. Phasellus vitae nunc ac lectus finibus porttitor. Sed vel enim vulputate, euismod neque maximus, tincidunt turpis. Aenean accumsan leo eget dui porta pulvinar. Sed tincidunt, nisi non efficitur tempus, enim lectus aliquam arcu, at dignissim ligula ex eu quam. Suspendisse gravida dapibus ultrices. Vivamus convallis nulla nisl, a imperdiet felis pellentesque in. Nulla facilisi. Integer aliquet sed orci eu tempor. Sed viverra ullamcorper commodo.&lt;/p&gt;
+
+&lt;p&gt;Morbi vestibulum sem eget maximus feugiat. Curabitur vehicula magna in molestie dignissim. Nam gravida leo non purus cursus, id accumsan justo tincidunt. Donec accumsan purus mauris, vitae luctus magna faucibus vitae. Nullam tincidunt urna scelerisque, hendrerit mi ac, sagittis ligula. Curabitur convallis eros eu fringilla maximus. Donec lobortis scelerisque enim eu molestie. Duis ac mi quis risus auctor vulputate.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Jun 2016 00:00:00 +0800</pubDate>
+        <link>http://webjeda.com/cards/no-image/</link>
+        <guid isPermaLink="true">http://webjeda.com/cards/no-image/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
