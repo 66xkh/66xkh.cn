@@ -135,6 +135,12 @@
 
           
           
+        
+
+              
+
+          
+          
             
             
               <li class="divider"></li>
@@ -221,6 +227,21 @@
 
               </li>
               <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="/gallery/">班级相册</a></li>
+              <li class="divider"></li>
+
+            
             
           
         
