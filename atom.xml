@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>下课后</title>
-	<updated>2017-12-02T14:17:13+08:00</updated>
+	<updated>2017-12-02T14:23:46+08:00</updated>
 
 	<subtitle>66下课后是电子科技大学MBA 2017级6班活动/分享/文档交流平台,也欢迎感兴趣的同学加入</subtitle>
 
@@ -27,8 +27,8 @@
 	
 		<entry>
 			<id>/xkh/bank/</id>
-			<title>你应该了解的银行那些事</title>
-			<link href="/xkh/bank/" rel="alternate" type="text/html" title="你应该了解的银行那些事" />
+			<title>金融|你应该了解的银行那些事</title>
+			<link href="/xkh/bank/" rel="alternate" type="text/html" title="金融|你应该了解的银行那些事" />
 			<updated>2017-11-28T00:00:00+08:00</updated>
 
 			
@@ -60,8 +60,7 @@
 &lt;/audio&gt;
 
 &lt;h3 id=&quot;图片&quot;&gt;图片&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/images/xkh-bank1/bank1.jpeg&quot; /&gt;
-&lt;img src=&quot;/images/xkh-bank1/bank2.jpeg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/xkh-bank1/bank2.jpeg&quot; /&gt;&lt;/p&gt;
 
 </content>
 
