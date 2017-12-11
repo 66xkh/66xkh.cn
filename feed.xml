@@ -9,6 +9,30 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>别再被售货员欺骗了</title>
+				<link>/xkh/cloth-material/</link>
+				<pubDate>Mon, 11 Dec 2017 00:00:00 +0800</pubDate>
+				<description>&lt;p&gt;主讲人:严琳&lt;/p&gt;
+&lt;h3 id=&quot;主讲内容&quot;&gt;主讲内容:&lt;/h3&gt;
+
+&lt;ul&gt;
+1.材料的分类&lt;br /&gt;
+2.如何保养&lt;br /&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;总结&quot;&gt;总结&lt;/h3&gt;
+&lt;h3 id=&quot;音频内容&quot;&gt;音频内容:&lt;/h3&gt;
+
+&lt;audio src=&quot;/resources/bank.mp3&quot; controls=&quot;controls&quot;&gt;
+  浏览器不支持播放音频！
+&lt;/audio&gt;
+
+&lt;h3 id=&quot;图片&quot;&gt;图片&lt;/h3&gt;
+
+</description>
+				<guid isPermaLink="true">/xkh/cloth-material/</guid>
+			</item>
+		
+			<item>
 				<title>金融|你应该了解的银行那些事</title>
 				<link>/xkh/bank/</link>
 				<pubDate>Tue, 28 Nov 2017 00:00:00 +0800</pubDate>
@@ -749,42 +773,6 @@ image:
 
 </description>
 				<guid isPermaLink="true">/design/header-with-text/</guid>
-			</item>
-		
-			<item>
-				<title>Header With Logo Only</title>
-				<link>/design/header-logo-only/</link>
-				<pubDate>Thu, 09 Oct 2014 00:00:00 +0800</pubDate>
-				<description>&lt;p&gt;No front matter code needed.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">/design/header-logo-only/</guid>
 			</item>
 		
 	</channel>

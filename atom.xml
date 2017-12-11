@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>下课后</title>
-	<updated>2017-12-02T14:23:46+08:00</updated>
+	<updated>2017-12-11T21:42:52+08:00</updated>
 
 	<subtitle>66下课后是电子科技大学MBA 2017级6班活动/分享/文档交流平台,也欢迎感兴趣的同学加入</subtitle>
 
@@ -24,6 +24,51 @@
 
 	<generator uri="http://jekyllrb.com" version="3.6.2">Jekyll</generator>
 
+	
+		<entry>
+			<id>/xkh/cloth-material/</id>
+			<title>别再被售货员欺骗了</title>
+			<link href="/xkh/cloth-material/" rel="alternate" type="text/html" title="别再被售货员欺骗了" />
+			<updated>2017-12-11T00:00:00+08:00</updated>
+
+			
+				
+				<author>
+					
+						<name>lewisl</name>
+					
+					
+					
+				</author>
+			
+			<summary>生活所必须的基本要素：衣食住行。你觉得你穿的好，还是穿的舒服？带你了解一下如何穿好，带你详细了解一下其中的只是以及如何保养高贵的衣服。</summary>
+			<content type="html" xml:base="/xkh/cloth-material/">&lt;p&gt;主讲人:严琳&lt;/p&gt;
+&lt;h3 id=&quot;主讲内容&quot;&gt;主讲内容:&lt;/h3&gt;
+
+&lt;ul&gt;
+1.材料的分类&lt;br /&gt;
+2.如何保养&lt;br /&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;总结&quot;&gt;总结&lt;/h3&gt;
+&lt;h3 id=&quot;音频内容&quot;&gt;音频内容:&lt;/h3&gt;
+
+&lt;audio src=&quot;/resources/bank.mp3&quot; controls=&quot;controls&quot;&gt;
+  浏览器不支持播放音频！
+&lt;/audio&gt;
+
+&lt;h3 id=&quot;图片&quot;&gt;图片&lt;/h3&gt;
+
+</content>
+
+			
+				<category term="xkh" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2017-12-11T00:00:00+08:00</published>
+		</entry>
 	
 		<entry>
 			<id>/xkh/bank/</id>
@@ -969,67 +1014,6 @@ image:
 			
 
 			<published>2015-02-10T00:00:00+08:00</published>
-		</entry>
-	
-		<entry>
-			<id>/design/header-logo-only/</id>
-			<title>Header With Logo Only</title>
-			<link href="/design/header-logo-only/" rel="alternate" type="text/html" title="Header With Logo Only" />
-			<updated>2014-10-09T00:00:00+08:00</updated>
-
-			
-				
-				<author>
-					
-						<name>lewisl</name>
-					
-					
-					
-				</author>
-			
-			<summary>Feeling Responsive allows you to use all kinds of headers. This is the default mode. It shows a header just with your logo on the standard background.</summary>
-			<content type="html" xml:base="/design/header-logo-only/">&lt;p&gt;No front matter code needed.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="design" />
-			
-				<category term="background color" />
-			
-				<category term="header" />
-			
-
-			<published>2014-10-09T00:00:00+08:00</published>
 		</entry>
 	
 </feed>
