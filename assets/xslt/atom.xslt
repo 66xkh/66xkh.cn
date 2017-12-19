@@ -296,7 +296,7 @@ s.parentNode.insertBefore(atag, s);
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="/" title="下课后 – 六喜丸子">
-			<!--	<img src="/assets/img/" alt="下课后 – 六喜丸子">-->
+			<!--	<img src="/assets/img/" alt="下课后 – 六喜丸子"> -->
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
